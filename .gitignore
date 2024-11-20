@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript build output
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript cache
+*.tsbuildinfo
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# npm packages cache (optional, but can be useful to ignore)
+package-lock.json
+yarn.lock
+
+# Ternary or TypeScript local configuration (optional)
+tsconfig.tsbuildinfo
